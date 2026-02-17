@@ -19,6 +19,7 @@ Lipsticks and skincare products generate the highest revenue
 Sales trends show seasonal influences (e.g., sunscreen in summer)
 Younger age groups prefer eco-friendly or organic products
 Promotions and influencer marketing correlate with sales spikes
+
 📂Datasets
 
 The dataset includes:
